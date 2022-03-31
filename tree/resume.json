@@ -5,8 +5,8 @@
   },
   "profile": {
     "name": "李媛媛",
-    "email": "549937062@qq.com",
-    "mobile": "13223410327",
+    "email": "54*****62@qq.com",
+    "mobile": "1322*****327",
     "github": "",
     "zhihu": "",
     "workExpYear": "",
@@ -46,24 +46,24 @@
   ],
   "skillList": [
     {
-      "skill_name": "医疗器械行业生产注册等相关法规",
-      "skill_desc": "",
-      "skill_level": 89
-    },
-    {
-      "skill_name": "拉力万能实验设备",
-      "skill_desc": "检测数类产品性能并出具检测报告",
+      "skill_name": "医疗器械相关法律法规及标准",
+      "skill_desc": "医疗器械相关法律法规及标准",
       "skill_level": 90
     },
     {
-      "skill_name": "idata、道客、知网数据源搜索",
-      "skill_desc": "",
+      "skill_name": "各级药监局网站信息查询搜索/中、英文知识检索",
+      "skill_desc": "各级药监局网站信息查询搜索/中、英文知识检索",
       "skill_level": 90
     },
     {
-      "skill_name": "PPT WORD EXCEL",
-      "skill_desc": "",
-      "skill_level": 85
+      "skill_name": "常规检验设备应用及报告编写",
+      "skill_desc": "常规检验设备应用及报告编写",
+      "skill_level": 90
+    },
+    {
+      "skill_name": "WORD/EXCEL/PPT",
+      "skill_desc": "WORD/EXCEL/PPT",
+      "skill_level": 90
     }
   ],
   "projectList": [
@@ -71,14 +71,14 @@
       "project_name": "金属接骨螺钉",
       "project_role": "产品负责人",
       "project_time": "",
-      "project_desc": "一种金属接骨螺钉,包括带有螺帽螺纹的螺帽以及带有自攻螺纹的螺杆,螺帽上设有螺孔,其技术要点是:所述螺帽螺纹和自攻螺纹为连续螺纹,螺帽螺纹上或/和自攻螺纹底部设有豁口.其具有结构简单,使用方便,制造快捷等优点.",
+      "project_desc": "金属接骨螺钉按应用部位分为皮质骨螺钉（浅螺纹）与松质骨螺钉（深螺纹）。适用于四肢骨折内固定。可单独使用或与骨板配合使用。由钛合金材料制成，表面经阳极氧化处理，非无菌包装",
       "project_content": "1. 产品原材料 2. 加工设备 3. 生产工艺摸索 4.产品性能研究 5.产品送检 6. 体系建立"
     },
     {
       "project_name": "空心接骨螺钉",
       "project_role": "产品负责人",
       "project_time": "",
-      "project_desc": "空心金属接骨螺钉是 用于四肢干骺端骨折内固定的一种螺钉。",
+      "project_desc": "空心接骨螺钉产品包括空心接骨螺钉及垫圈，空心接骨螺钉根据产品头部结构分为空心加压螺钉和空心双头加压螺钉。适用于四肢骨折内固定。可单独使用或与垫圈配合使用。由钛合金材料制成，产品表面经阳极氧化处理，非无菌包装。",
       "project_content": "1. 产品原材料 2. 加工设备 3. 生产工艺摸索 4.产品性能研究 5.产品送检 6. 体系建立"
     }
   ],
