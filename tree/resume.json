@@ -5,8 +5,8 @@
   },
   "profile": {
     "name": "李媛媛",
-    "email": "54*****62@qq.com",
-    "mobile": "1322*****327",
+    "email": "549937062@qq.com",
+    "mobile": "13223410327",
     "github": "",
     "zhihu": "",
     "workExpYear": "",
@@ -40,8 +40,14 @@
     {
       "company_name": "河北瑞诺医疗器械股份有限公司",
       "department_name": "研发部",
-      "work_time": ["2017.06", null],
+      "work_time": ["2017.06", "2022.05"],
       "work_desc": "三类免临床骨科植入产品负责人"
+    },
+    {
+      "company_name": "石家庄允咨医药科技有限公司",
+      "department_name": "研发部",
+      "work_time": ["2022.05", "至今"],
+      "work_desc": "医疗企业培训师"
     }
   ],
   "skillList": [
